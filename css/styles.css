@@ -23,7 +23,6 @@ nav {
   border: 2px solid black;
   border-radius: 1rem;
   background-color: #ccd5ae;
-  /* margin-bottom: 0.2rem; */
   text-align: center;
 }
 
@@ -53,11 +52,13 @@ article {
 
 .article_h1 {
   padding: 2rem;
-  /* margin-bottom: 0.1rem; */
   border: 2px solid black;
   border-radius: 1rem;
   background-color: #ccd5ae;
   margin: 0.5rem;
+  background: url("../assets/images/banner.jpg");
+  background-repeat: repeat;
+  color: white;
 }
 
 .article_h2 {
